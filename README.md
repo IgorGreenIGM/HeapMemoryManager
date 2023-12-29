@@ -47,7 +47,7 @@ A makefile with all compile commands is provided, simply run :
 ```bash
 make <version> 
 ```
-Where version is the version of the allocator you wish to compile : 
+Where <b><i>version</i></b> is the version of the allocator you wish to compile : 
 - *v1* : naive
 - *v2* : naive optimized
 - *v3* : binary buddy allocator
